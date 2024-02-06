@@ -3,7 +3,7 @@ import tkinter as tk
 ventana = tk.Tk() #creamos el objeto ventana
 ventana.title("Ventana")
 ventana.geometry("385x160+400+50") #el 450 y el 50 es para saber la pocision de la ventana
-#ventana.resizable(width=False, height=False) #para no poder mover la ventana ni el tamaño
+ventana.resizable(width=False, height=False) #para no poder mover la ventana ni el tamaño
 
 #Botones
 
