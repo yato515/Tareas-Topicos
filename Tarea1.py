@@ -18,6 +18,6 @@ boton3.place(x= 155, y=120)
 
 boton4 = tk.Button(ventana, text= "Boton 4", width=7, relief="groove", font=("Book Antiqua",12,"bold")) 
 boton4.place(x= 230, y=120)
-boton4 = tk.Button(ventana, text= "Boton 5", width=7, relief="groove", font=("Book Antiqua",12,"bold")) 
-boton4.place(x= 305, y=120)
+boton5 = tk.Button(ventana, text= "Boton 5", width=7, relief="groove", font=("Book Antiqua",12,"bold")) 
+boton5.place(x= 305, y=120)
 ventana.mainloop() #con esto corremo la ventana
