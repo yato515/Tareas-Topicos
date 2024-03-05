@@ -31,6 +31,7 @@ def login():
     nombre = entrada.get()
     pasword = entrada2.get()
     if nombre == "humberto" and pasword == "yato":
+        
         correcta()
 
 # Texto
